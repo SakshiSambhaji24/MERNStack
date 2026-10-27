@@ -1,0 +1,15 @@
+.box {
+  background-color: lightyellow;
+  border: 2px solid orange;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+.heading {
+  color: darkorange;
+}
+
+.text {
+  color: brown;
+}
